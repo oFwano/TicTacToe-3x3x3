@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/x_piece.png</file>
+        <file>img/o_piece.png</file>
+        <file>img/3D_board.png</file>
+        <file>img/icon.png</file>
+        <file>img/o_piecesmall.png</file>
+        <file>img/x_piecesmall.png</file>
+        <file>Sounds/button_sound.wav</file>
+        <file>Sounds/sfx_sounds_error1.wav</file>
+        <file>Sounds/ttt_piece.wav</file>
+        <file>Sounds/win_sound.wav</file>
+    </qresource>
+</RCC>
